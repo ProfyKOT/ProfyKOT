@@ -4,12 +4,18 @@
 **ProfyKOT/ProfyKOT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🌱 <font size="22">I’m currently learning:</font><p>
-  I like to explore various areas of programming as a hobby. My current goal is to master machine learning.</p>
-- 👯 I’m looking to collaborate on interesting projects
-- 💬 Ask me about ...
-- 📫 How to reach me: 
-  
-- ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning:
+
+   I like to explore various areas of programming as a hobby. My current goal is to master machine learning.
+   
+- 👯 I’m looking to collaborate on interesting projects
+ 
+- 📫 How to reach me:
+ 
+   <a href="https://t.me/ProfyKOT">
+    <img width="32" hspace="5" src="https://github.com/ProfyKOT/ProfyKOT/blob/master/images/telegram.png" />
+  </a>
+  <a href="mailto:rus.az555@yandex.ru">
+    <img width="32" hspace="5" src="https://github.com/ProfyKOT/ProfyKOT/blob/master/images/mail.ru.png" /> 
+  </a>
